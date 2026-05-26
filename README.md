@@ -10,12 +10,14 @@ This repository supports my live portfolio site and documents the major technica
 
 ## Professional Experience
 
-| Role | Organization / Context | Focus |
-|---|---|---|
-| Software Engineer | OTG Management | System architecture, backend APIs, POS/peripheral integrations, internal tools, deployment support, high-availability systems |
-| IT Technician | Professional / Technical Support Experience | Hardware/software support, networking, troubleshooting, user support, documentation |
+| Role | Organization / Context | Dates | Focus |
+|---|---|---|---|
+| Software Engineer | OTG Management | July 2023 – Present | System architecture, backend APIs, POS/peripheral integrations, internal tools, deployment support, high-availability systems |
+| IT Technician | Professional / Technical Support Experience | Previous Experience | Hardware/software support, networking, troubleshooting, user support, documentation |
 
 ### OTG Management — Software Engineer
+
+**July 2023 – Present**
 
 Key responsibilities include:
 
