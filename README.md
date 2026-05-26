@@ -1,6 +1,6 @@
 # Firaol Bushera — Technical Portfolio
 
-Computer Science graduate from George Mason University focused on software development, IT, cybersecurity, mobile applications, databases, machine learning, GIS/location-based systems, FinTech automation, and systems programming.
+Computer Science graduate from George Mason University and Software Engineer focused on backend systems, software development, IT, cybersecurity, mobile applications, databases, machine learning, GIS/location-based systems, FinTech automation, and systems programming.
 
 This repository supports my live portfolio site and documents the major technical projects I have worked on. Some projects were built in academic, lab, private, or work-related environments, so not every full source-code repository is public yet. To still make the work reviewable, I created project case studies that explain the problem, tools used, my contributions, and the technical skills demonstrated.
 
@@ -12,8 +12,24 @@ This repository supports my live portfolio site and documents the major technica
 
 | Role | Organization / Context | Focus |
 |---|---|---|
-| Finance & IT Team Member | OTG Management | IT workflows, troubleshooting, systems support, documentation, process improvement |
+| Software Engineer | OTG Management | System architecture, backend APIs, POS/peripheral integrations, internal tools, deployment support, high-availability systems |
 | IT Technician | Professional / Technical Support Experience | Hardware/software support, networking, troubleshooting, user support, documentation |
+
+### OTG Management — Software Engineer
+
+Key responsibilities include:
+
+- Modernizing legacy hardware systems into distributed, multi-client software frameworks for high-volume passenger traffic environments.
+- Building and maintaining backend APIs that connect Point-of-Sale networks with peripheral hardware such as cash recyclers and payment systems.
+- Developing internal management, tip dispersal, and work-assignment applications used by large crewmember teams.
+- Supporting the software development lifecycle through scalable code, debugging, deployment support, and high-availability system maintenance.
+
+Typical professional stack:
+
+- **Backend:** Node.js, Java, .NET
+- **Frontend:** React, JavaScript, TypeScript
+- **Infrastructure:** Docker, AWS, cloud architectures
+- **Databases:** SQL, NoSQL, PostgreSQL
 
 ## Education
 
@@ -41,11 +57,11 @@ Relevant focus areas: GIS concepts, spatial data, ArcGIS, location-based systems
 
 ## Technical Skills
 
-**Languages:** Java, C, C++, C#, Python, SQL, JavaScript, Kotlin, Dart, Assembly, MQL5  
-**Frameworks / App Development:** React, Django, Flutter, Firebase, Android Studio, Mobile UI, JDBC  
-**Developer Tools / Platforms:** Git, GitHub, PyCharm, Jupyter Notebook, MuleSoft Integration, ArcGIS, SQLPlus, VS Code  
-**Cybersecurity / Networking:** Kali Linux, Snort++, Nmap, Wireshark, TLS/HTTPS, VPN analysis, Docker, Linux networking  
-**Databases / Systems:** MongoDB, Oracle SQL, Firestore, Realtime Database, Linux, OS/161, System/161, GDB
+**Languages:** Java, C, C++, C#, Python, SQL, JavaScript, TypeScript, Kotlin, Dart, Assembly, MQL5  
+**Frameworks / App Development:** React, Node.js, .NET, Django, Flutter, Firebase, Android Studio, Mobile UI, JDBC, backend APIs  
+**Developer Tools / Platforms:** Git, GitHub, PyCharm, Jupyter Notebook, MuleSoft Integration, ArcGIS, SQLPlus, VS Code, AWS, Docker  
+**Cybersecurity / Networking:** Kali Linux, Snort++, Nmap, Wireshark, TLS/HTTPS, VPN analysis, Linux networking  
+**Databases / Systems:** PostgreSQL, SQL, NoSQL, MongoDB, Oracle SQL, Firestore, Realtime Database, Linux, OS/161, System/161, GDB
 
 ## Notes for Recruiters and Reviewers
 
